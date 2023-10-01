@@ -21,18 +21,9 @@
            <div class="logo"><img src="icons/logo.svg"></div>
            <div class="menu">
               <ul>
-                 <li></li>
                  <li>
                     <a href="#" onclick="NavAnimation()">
-                       <svg id="Layer_2" data-name="Layer 2" viewBox="0 0 19.38 9.16">
-                          <defs>
-                             <style>.cls-1{fill:none;stroke:#231f20;stroke-miterlimit:10}</style>
-                          </defs>
-                          <g id="Layer_1-2" data-name="Layer 1">
-                             <path d="M0 .5h9.69M9.69 8.66h9.69" class="cls-1"/>
-                             <path fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="1.7" d="M0 4.58h19.38"/>
-                          </g>
-                       </svg>
+                       <svg id="Layer_2" data-name="Layer 2" viewBox="0 0 19.38 9.16"><defs><style>.cls-1{fill:none;stroke:#231f20;stroke-miterlimit:10}</style></defs><g id="Layer_1-2" data-name="Layer 1"><path d="M0 .5h9.69M9.69 8.66h9.69" class="cls-1"/><path fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="1.7" d="M0 4.58h19.38"/></g></svg>
                        Menu
                     </a>
                  </li>
@@ -45,25 +36,54 @@
 
      <!-- HERO SECTION -->
      <section class="hero">
-        <div class="hero-container">
-           <div class="top-image" id="top-image">
-              <div class="headings" id="headings">
-                 <h4>Portfolio</h4>
-                 <h1>PHOTOSHOP</h1>
-                 <p>ABOUT THE PROJECT Mode is an audio range designed to provide 
-                    optimal performance and comfort for every mode of use. The
-                 </p>
-                 <button class="btn-1">View Case</button>
-              </div>
-           </div>
-           <div class="back-black" id="back-black"></div>
-           <div class="back-pannel" id="back-panel">
-              <h2 class="left-mrg">PHOTOSHOP</h2>
-              <h1 class="center-txt">#1</h1>
-              <h2 class="right-mrg">PORTFOLIO</h2>
-           </div>
-        </div>
-     </section>
+      <div class="hero-container">
+         <div class="hero-slider owl-carousel">
+            <div class="top-image" data-hash="zero">
+               <div class="headings" id="headings">
+                  <h4>Portfolio</h4>
+                  <h1><a href="#">PHOTOSHOP</a></h1>
+                  <p>ABOUT THE PROJECT Mode is an audio range designed to provide 
+                     optimal performance and comfort for every mode of use. The
+                  </p>
+                  <button class="btn-1">View Case</button>
+               </div>
+            </div>
+            <div class="top-image top-image-2" data-hash="one">
+               <div class="headings" id="headings-1">
+                  <h4>Portfolio</h4>
+                  <h1><a href="#">ILLUSTRATOR</a></h1>
+                  <p>ABOUT THE PROJECT Mode is an audio range designed to provide 
+                     optimal performance and comfort for every mode of use. The
+                  </p>
+                  <button class="btn-1">View Case</button>
+               </div>
+            </div>
+         </div>
+         <div class="back-black" id="back-black"></div>
+         <div class="back-pannel" id="back-panel">
+            <div class="left-mrg">
+               <h2 class="hide-on-mobile">PHOTOSHOP</h2>
+               <a id="prev-portfolio" href="#zero">
+                  <div class="container-inner-one">
+                     <img class="arrow" src="icons/right arrow.svg" height="20px">
+                     <img class="circle" src="icons/half-sircle.svg.svg" alt="">
+                  </div>
+               </a>
+            </div>
+            <h1 class="center-txt" id="slide-status">#1</h1>
+            <div class="right-mrg">
+               <h2 class="hide-on-mobile">ILLUSTRATOR</h2>
+               <a id="next-portfolio" href="#one">
+                  <div class="container-inner">
+                     <img class="arrow" src="icons/right arrow.svg" height="20px">
+                     <img class="circle" src="icons/half-sircle.svg.svg" alt="">
+                  </div>
+               </a>
+            </div>
+         </div>
+      </div>
+   </section>
+
 
 
 
@@ -184,7 +204,7 @@
               <a href="#">View Case</a>
            </div>
            <div class="work-3 work-all">
-              <img src="imgs/Gallaxy final.webp">
+              <img src="imgs/Gallaxy Final.webp">
               <h3>Creative & Photoshop</h3>
               <h2>GALLAXY</h2>
               <a href="#">View Case</a>
@@ -333,6 +353,8 @@
                  LET'S BUILD SOMETHING
                  <b><i>AMAZING</i></b> TOGETHER
               </h2>
+              
+              <p><img class="heart" src="icons/heart.svg">Special Thanks to <a href="https://www.freepik.com/">FreePik</a> & <a href="https://elements.envato.com/">Envato Elements</a></p>
               <button class="btn-4">GET STARTED NOW</button>
            </div>
         </div>
@@ -405,7 +427,7 @@
         <div class="background-two" id="bg-two">
            <div class="nav-menu">
               <div class="nav-container">
-                 <div class="logo">Portf<strong>olio</strong></div>
+               <div class="logo"><img src="icons/logo.svg"></div>
                  <div class="menu">
                     <ul>
                        <li></li>
