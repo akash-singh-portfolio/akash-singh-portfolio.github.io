@@ -1,1 +1,151 @@
-function _0x394e(){var _0x411dfa=['next-portfolio','28ZrBeZC','252546XergGf','back-panel','transition','headings','28810xtwLnz','1360DumhcE','innerHTML','overflow','owlCarousel','display','20NxojRQ','3921ZHXVHg','marginTop','bg-one','URLHash','headings-1','18529wQmZSD','style','94zpBYMX','143FcwEBL','onclick','one\x200.3s\x20linear\x200.1s\x20forwards','NFP','0px','animation','-134.64px','hidden','scrollY','block','.hero-slider','onere\x200.3s\x20linear\x200.5s\x20backwards','255924UxngJD','opacity','twore\x200.3s\x20linear\x200.1s\x20backwards','opacity\x201s\x20ease','getElementById','5009139itDOgz','229884HWGnuq','0.5','slide-status','.owl-two','585ECKlwd','none','addEventListener'];_0x394e=function(){return _0x411dfa;};return _0x394e();}var _0x44ba08=_0x1f28;(function(_0x314538,_0x2648b0){var _0x378569=_0x1f28,_0x243c98=_0x314538();while(!![]){try{var _0x190cb9=-parseInt(_0x378569(0x1d9))/0x1*(-parseInt(_0x378569(0x1e0))/0x2)+parseInt(_0x378569(0x1ce))/0x3*(-parseInt(_0x378569(0x1cd))/0x4)+parseInt(_0x378569(0x1d8))/0x5*(-parseInt(_0x378569(0x1c5))/0x6)+parseInt(_0x378569(0x1de))/0x7*(parseInt(_0x378569(0x1d3))/0x8)+-parseInt(_0x378569(0x1f2))/0x9+-parseInt(_0x378569(0x1d2))/0xa*(-parseInt(_0x378569(0x1e1))/0xb)+-parseInt(_0x378569(0x1ed))/0xc*(-parseInt(_0x378569(0x1c9))/0xd);if(_0x190cb9===_0x2648b0)break;else _0x243c98['push'](_0x243c98['shift']());}catch(_0x1711e5){_0x243c98['push'](_0x243c98['shift']());}}}(_0x394e,0x51238));var close=document[_0x44ba08(0x1f1)]('nav-close'),bg_1=document[_0x44ba08(0x1f1)](_0x44ba08(0x1db)),bg_2=document[_0x44ba08(0x1f1)]('bg-two'),NFP=document['getElementById'](_0x44ba08(0x1e4));function NavAnimation(){var _0x907c6b=_0x44ba08;(NFP[_0x907c6b(0x1df)][_0x907c6b(0x1d7)]=_0x907c6b(0x1ca))?(NFP[_0x907c6b(0x1df)][_0x907c6b(0x1d7)]=_0x907c6b(0x1ea),bg_1[_0x907c6b(0x1df)]['animation']=_0x907c6b(0x1e3),bg_2[_0x907c6b(0x1df)][_0x907c6b(0x1e6)]='two\x200.3s\x20linear\x200.5s\x20forwards',document['body'][_0x907c6b(0x1df)]['overflow']=_0x907c6b(0x1e8)):NFP[_0x907c6b(0x1df)]['display']='none';}function _0x1f28(_0x66f987,_0x6c1157){var _0x394e1f=_0x394e();return _0x1f28=function(_0x1f289a,_0x35a7fb){_0x1f289a=_0x1f289a-0x1c5;var _0x5b6d30=_0x394e1f[_0x1f289a];return _0x5b6d30;},_0x1f28(_0x66f987,_0x6c1157);}function closeNav(){var _0x23cdff=_0x44ba08;(NFP['style'][_0x23cdff(0x1d7)]='block')?(bg_1[_0x23cdff(0x1df)][_0x23cdff(0x1e6)]=_0x23cdff(0x1ec),bg_2[_0x23cdff(0x1df)]['animation']=_0x23cdff(0x1ef),document['body'][_0x23cdff(0x1df)][_0x23cdff(0x1d5)]='visible',setTimeout(()=>{var _0x32e382=_0x23cdff;NFP[_0x32e382(0x1df)]['display']=_0x32e382(0x1ca);},0x320)):NFP[_0x23cdff(0x1df)][_0x23cdff(0x1d7)]='none';}var con=document[_0x44ba08(0x1f1)](_0x44ba08(0x1cf)),head=document['getElementById'](_0x44ba08(0x1d1)),head1=document[_0x44ba08(0x1f1)](_0x44ba08(0x1dd)),backtop=document['querySelector']('#top');window[_0x44ba08(0x1cb)]('scroll',()=>{var _0x15d2ad=_0x44ba08;const _0x197af8=window[_0x15d2ad(0x1e9)];scrollY>=0xa&&scrollY<=0x1c2?(con['style'][_0x15d2ad(0x1da)]='-'+_0x197af8*0.3+'px',head['style']['marginTop']='-'+_0x197af8*0x1+'px',head[_0x15d2ad(0x1df)][_0x15d2ad(0x1ee)]=_0x15d2ad(0x1c6),head[_0x15d2ad(0x1df)]['transition']=_0x15d2ad(0x1f0),head1[_0x15d2ad(0x1df)][_0x15d2ad(0x1da)]='-'+_0x197af8*0x1+'px',head1[_0x15d2ad(0x1df)][_0x15d2ad(0x1ee)]=_0x15d2ad(0x1c6),head1['style'][_0x15d2ad(0x1d0)]='opacity\x201s\x20ease'):(con[_0x15d2ad(0x1df)][_0x15d2ad(0x1da)]=_0x15d2ad(0x1e7),head['style'][_0x15d2ad(0x1ee)]='1',head[_0x15d2ad(0x1df)][_0x15d2ad(0x1d0)]=_0x15d2ad(0x1f0),head1[_0x15d2ad(0x1df)][_0x15d2ad(0x1ee)]='1',head1[_0x15d2ad(0x1df)]['transition']=_0x15d2ad(0x1f0));if(scrollY<=0xa)con['style'][_0x15d2ad(0x1da)]=_0x15d2ad(0x1e5);else{}scrollY>0x1a4?backtop[_0x15d2ad(0x1df)][_0x15d2ad(0x1d7)]=_0x15d2ad(0x1ea):backtop['style'][_0x15d2ad(0x1d7)]=_0x15d2ad(0x1ca);}),$(_0x44ba08(0x1eb))[_0x44ba08(0x1d6)]({'loop':!![],'margin':0xa,'nav':![],'URLhashListener':!![],'startPosition':_0x44ba08(0x1dc),'touchDrag':![],'mouseDrag':![],'responsive':{0x0:{'items':0x1},0x3e8:{'items':0x1}}});var prevbtn=document['getElementById']('prev-portfolio'),nextbtn=document[_0x44ba08(0x1f1)](_0x44ba08(0x1cc)),slidestatus=document[_0x44ba08(0x1f1)](_0x44ba08(0x1c7));nextbtn[_0x44ba08(0x1e2)]=function(){var _0x237289=_0x44ba08;slidestatus[_0x237289(0x1d4)]=='#1'?slidestatus['innerHTML']='#2':slidestatus[_0x237289(0x1d4)]='#2';},prevbtn[_0x44ba08(0x1e2)]=function(){var _0x23c22c=_0x44ba08;slidestatus[_0x23c22c(0x1d4)]=='#2'?slidestatus['innerHTML']='#1':slidestatus[_0x23c22c(0x1d4)]='#1';},$('.owl-one')[_0x44ba08(0x1d6)]({'loop':!![],'margin':0xa,'nav':!![],'responsive':{0x0:{'items':0x1},0x258:{'items':1.5},0x3e8:{'items':2.5}}}),$(_0x44ba08(0x1c8))['owlCarousel']({'loop':!![],'margin':0xa,'nav':!![],'responsive':{0x0:{'items':0x1},0x3e8:{'items':0x2}}});
+// NAVIGATION OPEN ANIMATION
+var close = document.getElementById("nav-close");
+var bg_1 = document.getElementById("bg-one");
+var bg_2 = document.getElementById("bg-two");
+var NFP = document.getElementById("NFP");
+
+
+function NavAnimation() {
+   if (NFP.style.display = "none") {
+      NFP.style.display = "block";
+      bg_1.style.animation = "one 0.3s linear 0.1s forwards";
+      bg_2.style.animation = "two 0.3s linear 0.5s forwards";
+      document.body.style.overflow = "hidden";
+   } else {
+      NFP.style.display = "none";
+   }
+}
+
+// NAVIGATION CLOSE
+function closeNav() {
+   if (NFP.style.display = "block") {
+
+      bg_1.style.animation = "onere 0.3s linear 0.5s backwards";
+      bg_2.style.animation = "twore 0.3s linear 0.1s backwards";
+      document.body.style.overflow = "visible";
+
+
+      setTimeout(() => {
+         NFP.style.display = "none";
+      }, 800);
+   } else {
+      NFP.style.display = "none";
+   }
+}
+
+
+
+
+// HERO-SECTION PARALLAX EFFECT
+var con = document.getElementById("back-panel")
+var head = document.getElementById("headings")
+var head1 = document.getElementById("headings-1")
+var backtop = document.querySelector("#top")
+
+
+window.addEventListener("scroll", () => {
+
+   const scrollValue = window.scrollY;
+   if (scrollY >= 10 && scrollY <= 450) {
+      con.style.marginTop = "-" + scrollValue * 0.3 + "px";
+      head.style.marginTop = "-" + scrollValue * 1 + "px";
+      head.style.opacity = "0.5";
+      head.style.transition = "opacity 1s ease";
+      head1.style.marginTop = "-" + scrollValue * 1 + "px";
+      head1.style.opacity = "0.5";
+      head1.style.transition = "opacity 1s ease";
+   } else {
+      con.style.marginTop = "-134.64px";
+      head.style.opacity = "1";
+      head.style.transition = "opacity 1s ease";
+      head1.style.opacity = "1";
+      head1.style.transition = "opacity 1s ease";
+   }
+   if (scrollY <= 10) {
+      con.style.marginTop = "0px";
+   } else {}
+
+   if (scrollY > 420) {
+      backtop.style.display = "block";
+   } else {
+      backtop.style.display = "none";
+   }
+   //   console.log(scrollValue);
+});
+
+
+
+
+//   HERO SECTION SLIDER JQUERY 
+$('.hero-slider').owlCarousel({
+   loop: true,
+   margin: 10,
+   nav: false,
+   URLhashListener:true,
+   startPosition: 'URLHash',
+   touchDrag: false,
+        mouseDrag: false,
+   responsive: {
+      0: {
+         items: 1
+      },
+      1000: {
+         items: 1
+      }
+   }
+})
+var prevbtn = document.getElementById("prev-portfolio");
+var nextbtn = document.getElementById("next-portfolio");
+var slidestatus = document.getElementById("slide-status");
+
+nextbtn.onclick = function(){
+   if(slidestatus.innerHTML == "#1"){
+      slidestatus.innerHTML = "#2";
+   }else{
+      slidestatus.innerHTML = "#2";
+   }
+}
+prevbtn.onclick = function(){
+   if(slidestatus.innerHTML == "#2"){
+      slidestatus.innerHTML = "#1";
+   }else{
+      slidestatus.innerHTML = "#1";
+   }
+}
+
+
+
+
+
+//   WORKS SLIDER JQUERY 
+$('.owl-one').owlCarousel({
+   loop: true,
+   margin: 10,
+   nav: true,
+   responsive: {
+      0: {
+         items: 1
+      },
+      600: {
+         items: 1.5
+      },
+      1000: {
+         items: 2.5
+      }
+   }
+})
+//   TESTIMONIALS SLIDER JQUERY 
+$('.owl-two').owlCarousel({
+   loop: true,
+   margin: 10,
+   nav: true,
+   responsive: {
+      0: {
+         items: 1
+      },
+      1000: {
+         items: 2
+      }
+   }
+})
+
